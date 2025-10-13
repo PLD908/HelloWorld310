@@ -28,3 +28,6 @@ Useful Websites
 * [Microsoft Learn - C++ Environment Setup](https://learn.microsoft.com/en-us/cpp/build/vscpp-step-0-installation)
 * [Markdown Guide](https://www.markdownguide.org/cheat-sheet/)
 	
+
+cl /EHsc hello_world.cpp
+.\hello_world.exe
