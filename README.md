@@ -30,4 +30,4 @@ Useful Websites
 	
 
 cl /EHsc hello_world.cpp
-.\hello_world.exe
+.\hello_world.exe 
