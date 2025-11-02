@@ -3,7 +3,7 @@ Overview
 As a growing software engineer, I’m focused on strengthening my programming foundation and ensuring my development tools are properly configured for more complex projects.
 This simple “Hello World” program is my first step in confirming that my coding environment, compiler, and version control setup are all working smoothly.
 
-The software prints a personalized message — “Hello, World from Rachel!” — to the console.
+The software prints a personalized message — “Hello, World from Divine!” — to the console.
 It serves as a baseline test for writing, compiling, and executing C++ code successfully on my local machine.
 
 My purpose in creating this software is to verify my development environment, become more familiar with compiling C++ code, and set up a repeatable workflow for future programming modules that involve building larger and more advanced projects.

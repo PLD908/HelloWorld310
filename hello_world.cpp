@@ -2,8 +2,7 @@
 using namespace std;
 
 int main() {
-    cout << "Hello, World from Rachel!" << endl;
+    cout << "Hello, World from Divine!" << endl;
     return 0;
 }
 
-// this is a simple c++ program that prints "hello, world!" to the console
